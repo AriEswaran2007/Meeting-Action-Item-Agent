@@ -190,7 +190,7 @@ with st.sidebar:
 
     model_name = st.text_input(
         "Gemini model",
-        value="gemini-2.5-flash",
+        value="gemini-3.8-flash",
         help="The model must be available to your API key.",
     )
 
